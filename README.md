@@ -20,7 +20,7 @@
     ls
     chmod 777 PhoneInfo.sh
     bash PhoneInfo.sh [Disfruta]
-    bash PhoneInfo --info [Informacion del creador]
+    bash PhoneInfo.sh --info [Informacion del creador]
 
 # Usage
 
